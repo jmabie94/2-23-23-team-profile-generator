@@ -4,7 +4,7 @@
 ---
 ### This project is designed to generate a formatted Team Profile HTML Page based on user inputs
 
-#### Here is the link to the GitHub repository: repolinkneeded.com
+#### Here is the link to the GitHub repository: https://github.com/jmabie94/2-23-23-team-profile-generator
 ---
 ## Contents
 1. [About](#about)
@@ -66,13 +66,22 @@ Screenshot of the HTML generated in the video Walkthrough when opened in browser
 
 ## Installation:
 
-#### Clone the repository, open the folder in an integrated terminal, run npm init -y, run npm i, run node index.js, then answer the prompts!
+Installing and Utilizing the Application is simple!
 
-#### To clone the repo:
+First, clone the repo:
+    
+    git clone git@github.com:jmabie94/2-23-23-team-profile-generator.git
 
-    git clone clonelinkneeded.com
+Next, open an integrated terminal in your cloned folder and do the following:
+    
+    run npm init -y
+    run npm i
+    run node index.js
+
+Then, answer all of the prompts in your terminal to generate a HTML file!
     
 ---
+
 ## License
 License used for this project - GNU AGPLv3
 * For more information on license types, please reference this website for additional licensing information - [https: //choosealicense.com/](https://choosealicense.com/).
